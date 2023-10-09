@@ -1,0 +1,92 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 28rem;
+}.dropdown-list-ZMs {
+  box-shadow: 0 0.4rem 1.4rem rgba(0, 0, 0, 0.1000000015);
+  border-radius: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  row-gap: 0.1rem;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+
+  .item-1-tuw {
+    position: relative;
+    font-size: 1.6rem;
+    white-space: nowrap;
+    color: #333333;
+    font-family: Montserrat, 'Source Sans Pro';
+    flex-shrink: 0;
+    overflow: hidden;
+    font-weight: 400;
+    line-height: 1.2175;
+    box-sizing: border-box;
+    cursor: pointer;
+    padding: 1.2rem 1.6rem;
+    width: 100%;
+    background-color: #ffffff;
+  }
+  .item-2-zTB {
+    width: 100%;
+    position: relative;
+    font-family: Montserrat, 'Source Sans Pro';
+    padding: 1.2rem 1.6rem;
+    line-height: 1.2175;
+    color: #333333;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-size: 1.6rem;
+    font-weight: 400;
+    white-space: nowrap;
+    flex-shrink: 0;
+    overflow: hidden;
+  }
+  .item-3-JTs {
+    padding: 1.2rem 1.6rem;
+    overflow: hidden;
+    background-color: #ffffff;
+    width: 100%;
+    font-weight: 400;
+    white-space: nowrap;
+    font-family: Montserrat, 'Source Sans Pro';
+    cursor: pointer;
+    position: relative;
+    font-size: 1.6rem;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    line-height: 1.2175;
+    color: #333333;
+  }
+  .item-4-Q17 {
+    cursor: pointer;
+    line-height: 1.2175;
+    background-color: #ffffff;
+    overflow: hidden;
+    font-weight: 400;
+    flex-shrink: 0;
+    padding: 1.2rem 1.6rem;
+    position: relative;
+    font-size: 1.6rem;
+    color: #333333;
+    font-family: Montserrat, 'Source Sans Pro';
+    white-space: nowrap;
+    box-sizing: border-box;
+    width: 100%;
+  }
+}

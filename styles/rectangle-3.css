@@ -1,0 +1,23 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 32.5rem;
+}.rectangle-3-29w {
+  width: 100%;
+  height: 37.3rem;
+  border: dashed 0.2rem #159500;
+  box-sizing: border-box;
+  border-radius: 0.8rem;
+}

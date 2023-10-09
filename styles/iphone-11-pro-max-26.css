@@ -1,0 +1,593 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.iphone-11-pro-max-26-2kq {
+  box-sizing: border-box;
+  padding-bottom: 0.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f8;
+  border-radius: 2rem;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD {
+  margin: 0rem 0rem 19.9rem 0.1rem;
+  width: 44.2305rem;
+  height: 61.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .navigation-bar-GQH {
+  box-sizing: border-box;
+  padding: 3.965rem 13.062rem 1.67rem 13.163rem;
+  width: 41.4rem;
+  height: 14.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  box-shadow: 0 -0.5rem 2rem rgba(0, 0, 0, 0.25);
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .navigation-bar-GQH .auto-group-rocm-BGM {
+  width: 100%;
+  height: 100%;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .navigation-bar-GQH .auto-group-rocm-BGM .auto-group-qltb-jYm {
+  width: 100%;
+  height: 4.5934rem;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .rectangle-319-qbo {
+  width: 13.5rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 10.2rem;
+  background-color: rgba(183, 173, 173, 0.200000003);
+  border-radius: 1rem;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .chevron-left-9cV {
+  width: 0.6rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 4.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .vector-Gx1 {
+  width: 10.65rem;
+  height: 11.8333rem;
+  position: absolute;
+  left: 15.275rem;
+  top: 27.2917rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND {
+  width: 42.6305rem;
+  height: 57.3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 3.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .auto-group-f8xt-6RF {
+  box-sizing: border-box;
+  padding: 0rem 1.703rem 3.2rem 3.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .auto-group-f8xt-6RF .search-messages-bar-RCd {
+  margin: 0rem 0rem 4.3rem 1.3rem;
+  box-sizing: border-box;
+  padding: 0.6rem 24.158rem 0.4rem 2.446rem;
+  width: calc(100% - 1.3rem);
+  display: flex;
+  align-items: center;
+  background-color: #f3f3f3;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .auto-group-f8xt-6RF .search-messages-bar-RCd .vector-7bF {
+  margin: 0rem 0.489rem 0.2rem 0rem;
+  width: 1.8347rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .auto-group-f8xt-6RF .search-messages-bar-RCd .search--Evm {
+  font-size: 1.603rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #c9c9c9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .auto-group-f8xt-6RF .auto-group-pech-KxD {
+  margin-right: 7.328rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .auto-group-f8xt-6RF .auto-group-pech-KxD .liked-5Ah {
+  margin-right: 9.1rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Baloo Tamma 2, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .auto-group-f8xt-6RF .auto-group-pech-KxD .shared-zoT {
+  margin-right: 9.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Baloo Tamma 2, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .auto-group-f8xt-6RF .auto-group-pech-KxD .saved-jFF {
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Baloo Tamma 2, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-1-et1 {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-1-et1 .user-profile-picture-njK {
+  margin: 0.3rem 2.202rem 0rem 0rem;
+  width: 3.0579rem;
+  height: 2.5rem;
+  background-color: #b1ccd9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/user-profile-picture-bg-aJu.png');
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-1-et1 .auto-group-7zv7-sEy {
+  margin-right: 3.2709rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-1-et1 .auto-group-7zv7-sEy .tell-us-about-yourself-pR7 {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-1-et1 .auto-group-7zv7-sEy .content-description-ZNh {
+  max-width: 31.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-1-et1 .time-of-upload-giD {
+  margin-top: 0.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #bebebe;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-2-pJd {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-2-pJd .user-profile-picture-9rh {
+  margin: 0.3rem 2.202rem 0rem 0rem;
+  width: 3.0579rem;
+  height: 2.5rem;
+  background-color: #b1ccd9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/user-profile-picture-bg-sCM.png');
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-2-pJd .auto-group-mnwb-4Ts {
+  margin-right: 3.2709rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-2-pJd .auto-group-mnwb-4Ts .tell-us-about-yourself-byb {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-2-pJd .auto-group-mnwb-4Ts .content-description-8yX {
+  max-width: 31.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-2-pJd .time-of-upload-sRK {
+  margin-top: 0.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #bebebe;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-3-bcD {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-3-bcD .user-profile-picture-jTX {
+  margin: 0.3rem 2.202rem 0rem 0rem;
+  width: 3.0579rem;
+  height: 2.5rem;
+  background-color: #b1ccd9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/user-profile-picture-bg-ETB.png');
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-3-bcD .auto-group-bgxb-E9P {
+  margin-right: 3.2709rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-3-bcD .auto-group-bgxb-E9P .tell-us-about-yourself-aj3 {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-3-bcD .auto-group-bgxb-E9P .content-description-KwX {
+  max-width: 31.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-3-bcD .time-of-upload-fVb {
+  margin-top: 0.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #bebebe;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-4-CVX {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-4-CVX .user-profile-picture-YZP {
+  margin: 0.3rem 2.202rem 0rem 0rem;
+  width: 3.0579rem;
+  height: 2.5rem;
+  background-color: #b1ccd9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/user-profile-picture-bg-STT.png');
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-4-CVX .auto-group-wxxu-TRT {
+  margin-right: 3.2709rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-4-CVX .auto-group-wxxu-TRT .tell-us-about-yourself-Ctq {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-4-CVX .auto-group-wxxu-TRT .content-description-x7K {
+  max-width: 31.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-4-CVX .time-of-upload-gZ7 {
+  margin-top: 0.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #bebebe;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-5-1LV {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-5-1LV .user-profile-picture-YbK {
+  margin: 0.3rem 2.202rem 0rem 0rem;
+  width: 3.0579rem;
+  height: 2.5rem;
+  background-color: #b1ccd9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/user-profile-picture-bg-pDw.png');
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-5-1LV .auto-group-zrhb-DxM {
+  margin-right: 3.2709rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-5-1LV .auto-group-zrhb-DxM .tell-us-about-yourself-yAq {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-5-1LV .auto-group-zrhb-DxM .content-description-hsX {
+  max-width: 31.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-5-1LV .time-of-upload-qiq {
+  margin-top: 0.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #bebebe;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-6-Nim {
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-6-Nim .user-profile-picture-8C9 {
+  margin: 0.3rem 2.202rem 0rem 0rem;
+  width: 3.0579rem;
+  height: 2.5rem;
+  background-color: #b1ccd9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/user-profile-picture-bg-dXw.png');
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-6-Nim .auto-group-xhw1-dPo {
+  margin-right: 3.2709rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-6-Nim .auto-group-xhw1-dPo .tell-us-about-yourself-n1o {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-6-Nim .auto-group-xhw1-dPo .content-description-WyP {
+  max-width: 31.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-a9nh-MYD .direct-message-feed-zND .message-sender-6-Nim .time-of-upload-do7 {
+  margin-top: 0.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #bebebe;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-ksm7-Mz1 {
+  width: 100%;
+  height: 8.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-ksm7-Mz1 .start-odering-tU9 {
+  width: 9.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 15.95rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #f6f6f9;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.iphone-11-pro-max-26-2kq .auto-group-ksm7-Mz1 .navigation-bar-zGH {
+  box-sizing: border-box;
+  padding: 1.9rem 7.006rem 0.8rem 6.531rem;
+  width: 41.4rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 0;
+  top: 1.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  box-shadow: 0 -0.5rem 2rem rgba(0, 0, 0, 0.25);
+}
+.iphone-11-pro-max-26-2kq .auto-group-ksm7-Mz1 .navigation-bar-zGH .home-64R {
+  margin: 0rem 4.63rem 2.302rem 0rem;
+  width: 2.0015rem;
+  height: 1.8979rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-ksm7-Mz1 .navigation-bar-zGH .auto-group-nvxb-ozR {
+  margin-right: 4.5693rem;
+  width: 15.1753rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-ksm7-Mz1 .navigation-bar-zGH .auto-group-nvxb-ozR .auto-group-n4dp-9oP {
+  margin-bottom: 1.499rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-ksm7-Mz1 .navigation-bar-zGH .auto-group-nvxb-ozR .auto-group-n4dp-9oP .vector-6id {
+  margin-right: 10.8709rem;
+  width: 1.9858rem;
+  height: 1.8708rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-ksm7-Mz1 .navigation-bar-zGH .auto-group-nvxb-ozR .auto-group-n4dp-9oP .direct-messages-puX {
+  width: 2.3185rem;
+  height: 2.201rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-ksm7-Mz1 .navigation-bar-zGH .auto-group-nvxb-ozR .home-indicator-ZcD {
+  margin: 0rem 0.526rem 0rem 0.425rem;
+  width: calc(100% - 0.9507rem);
+  height: 0.5rem;
+  background-color: #f2f2f2;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-ksm7-Mz1 .navigation-bar-zGH .profile-sso {
+  margin-bottom: 2.2rem;
+  width: 1.4862rem;
+  height: 1.8rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-11-pro-max-26-2kq .auto-group-ksm7-Mz1 .create-content-mTP {
+  width: 1.4954rem;
+  height: 1.35rem;
+  position: absolute;
+  left: 19.2rem;
+  top: 3.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
